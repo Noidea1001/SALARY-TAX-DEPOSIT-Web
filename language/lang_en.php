@@ -5,12 +5,10 @@ $lang = array();
 $lang['PAGE_TITLE'] = 'MID-TERM EXAM';
 $lang['HEADER_TITLE'] = 'MID-TERM EXAM';
 $lang['SLOGAN'] = 'SALARY TAX & DEPOSIT APP';
-
 // Main Navigation Menu Items
 $lang['MENU_HOME'] = 'Home';
 $lang['MENU_SALARY_TAX'] = 'Salary Tax';
 $lang['MENU_DEPOSIT'] = 'Deposit';
-
 $lang['REG_FORM'] = 'Membership Registration Form';
 $lang['FIRST_NAME'] = 'First Name';
 $lang['LAST_NAME'] = 'Last Name';
